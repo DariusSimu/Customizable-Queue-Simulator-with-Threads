@@ -1,0 +1,203 @@
+Sim Time: 0
+Queue 0 is empty
+Queue 1 is empty
+Remaining Clients:
+(4, 6, 2) (1, 7, 2) (2, 9, 3) (3, 22, 3)
+
+
+Sim Time: 1
+Queue 0 is empty
+Queue 1 is empty
+Remaining Clients:
+(4, 6, 2) (1, 7, 2) (2, 9, 3) (3, 22, 3)
+
+
+Sim Time: 2
+Queue 0 is empty
+Queue 1 is empty
+Remaining Clients:
+(4, 6, 2) (1, 7, 2) (2, 9, 3) (3, 22, 3)
+
+
+Sim Time: 3
+Queue 0 is empty
+Queue 1 is empty
+Remaining Clients:
+(4, 6, 2) (1, 7, 2) (2, 9, 3) (3, 22, 3)
+
+
+Sim Time: 4
+Queue 0 is empty
+Queue 1 is empty
+Remaining Clients:
+(4, 6, 2) (1, 7, 2) (2, 9, 3) (3, 22, 3)
+
+
+Sim Time: 5
+Queue 0 is empty
+Queue 1 is empty
+Remaining Clients:
+(4, 6, 2) (1, 7, 2) (2, 9, 3) (3, 22, 3)
+
+
+Sim Time: 6
+Clients in Queue 0
+[(4, 6, 1)]
+Serving (4, 6, 1)
+Total Wait Time: 1
+Queue 1 is empty
+Remaining Clients:
+(1, 7, 2) (2, 9, 3) (3, 22, 3)
+
+
+Sim Time: 7
+Clients in Queue 0
+[(4, 6, 1)]
+Serving (4, 6, 1)
+Total Wait Time: 1
+Clients in Queue 1
+[(1, 7, 2)]
+Serving (1, 7, 2)
+Total Wait Time: 2
+Remaining Clients:
+(2, 9, 3) (3, 22, 3)
+
+
+Sim Time: 8
+Queue 0 is empty
+Clients in Queue 1
+[(1, 7, 1)]
+Serving (1, 7, 1)
+Total Wait Time: 1
+Remaining Clients:
+(2, 9, 3) (3, 22, 3)
+
+
+Sim Time: 9
+Clients in Queue 0
+[(2, 9, 3)]
+Serving (2, 9, 3)
+Total Wait Time: 3
+Queue 1 is empty
+Remaining Clients:
+(3, 22, 3)
+
+
+Sim Time: 10
+Clients in Queue 0
+[(2, 9, 2)]
+Serving (2, 9, 2)
+Total Wait Time: 2
+Queue 1 is empty
+Remaining Clients:
+(3, 22, 3)
+
+
+Sim Time: 11
+Clients in Queue 0
+[(2, 9, 1)]
+Serving (2, 9, 1)
+Total Wait Time: 1
+Queue 1 is empty
+Remaining Clients:
+(3, 22, 3)
+
+
+Sim Time: 12
+Queue 0 is empty
+Queue 1 is empty
+Remaining Clients:
+(3, 22, 3)
+
+
+Sim Time: 13
+Queue 0 is empty
+Queue 1 is empty
+Remaining Clients:
+(3, 22, 3)
+
+
+Sim Time: 14
+Queue 0 is empty
+Queue 1 is empty
+Remaining Clients:
+(3, 22, 3)
+
+
+Sim Time: 15
+Queue 0 is empty
+Queue 1 is empty
+Remaining Clients:
+(3, 22, 3)
+
+
+Sim Time: 16
+Queue 0 is empty
+Queue 1 is empty
+Remaining Clients:
+(3, 22, 3)
+
+
+Sim Time: 17
+Queue 0 is empty
+Queue 1 is empty
+Remaining Clients:
+(3, 22, 3)
+
+
+Sim Time: 18
+Queue 0 is empty
+Queue 1 is empty
+Remaining Clients:
+(3, 22, 3)
+
+
+Sim Time: 19
+Queue 0 is empty
+Queue 1 is empty
+Remaining Clients:
+(3, 22, 3)
+
+
+Sim Time: 20
+Queue 0 is empty
+Queue 1 is empty
+Remaining Clients:
+(3, 22, 3)
+
+
+Sim Time: 21
+Queue 0 is empty
+Queue 1 is empty
+Remaining Clients:
+(3, 22, 3)
+
+
+Sim Time: 22
+Clients in Queue 0
+[(3, 22, 3)]
+Serving (3, 22, 3)
+Total Wait Time: 3
+Queue 1 is empty
+
+
+Sim Time: 23
+Clients in Queue 0
+[(3, 22, 2)]
+Serving (3, 22, 2)
+Total Wait Time: 2
+Queue 1 is empty
+
+
+Sim Time: 24
+Clients in Queue 0
+[(3, 22, 1)]
+Serving (3, 22, 1)
+Total Wait Time: 1
+Queue 1 is empty
+
+
+Avg Waiting Time: 0.0
+Avg Serv Time: 2.0
+Peak Hour: 7
+
