@@ -1,0 +1,443 @@
+Sim Time: 0
+Queue 0 is empty
+Queue 1 is empty
+Queue 2 is empty
+Remaining Clients:
+(11, 6, 5) (14, 7, 7) (1, 11, 7) (17, 11, 5) (10, 12, 6) (8, 16, 7) (16, 16, 3) (3, 17, 7) (18, 18, 5) (5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 1
+Queue 0 is empty
+Queue 1 is empty
+Queue 2 is empty
+Remaining Clients:
+(11, 6, 5) (14, 7, 7) (1, 11, 7) (17, 11, 5) (10, 12, 6) (8, 16, 7) (16, 16, 3) (3, 17, 7) (18, 18, 5) (5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 2
+Queue 0 is empty
+Queue 1 is empty
+Queue 2 is empty
+Remaining Clients:
+(11, 6, 5) (14, 7, 7) (1, 11, 7) (17, 11, 5) (10, 12, 6) (8, 16, 7) (16, 16, 3) (3, 17, 7) (18, 18, 5) (5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 3
+Queue 0 is empty
+Queue 1 is empty
+Queue 2 is empty
+Remaining Clients:
+(11, 6, 5) (14, 7, 7) (1, 11, 7) (17, 11, 5) (10, 12, 6) (8, 16, 7) (16, 16, 3) (3, 17, 7) (18, 18, 5) (5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 4
+Queue 0 is empty
+Queue 1 is empty
+Queue 2 is empty
+Remaining Clients:
+(11, 6, 5) (14, 7, 7) (1, 11, 7) (17, 11, 5) (10, 12, 6) (8, 16, 7) (16, 16, 3) (3, 17, 7) (18, 18, 5) (5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 5
+Queue 0 is empty
+Queue 1 is empty
+Queue 2 is empty
+Remaining Clients:
+(11, 6, 5) (14, 7, 7) (1, 11, 7) (17, 11, 5) (10, 12, 6) (8, 16, 7) (16, 16, 3) (3, 17, 7) (18, 18, 5) (5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 6
+Clients in Queue 0
+[(11, 6, 4)]
+Serving (11, 6, 4)
+Total Wait Time: 4
+Queue 1 is empty
+Queue 2 is empty
+Remaining Clients:
+(14, 7, 7) (1, 11, 7) (17, 11, 5) (10, 12, 6) (8, 16, 7) (16, 16, 3) (3, 17, 7) (18, 18, 5) (5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 7
+Clients in Queue 0
+[(11, 6, 3)]
+Serving (11, 6, 3)
+Total Wait Time: 3
+Clients in Queue 1
+[(14, 7, 6)]
+Serving (14, 7, 6)
+Total Wait Time: 6
+Queue 2 is empty
+Remaining Clients:
+(1, 11, 7) (17, 11, 5) (10, 12, 6) (8, 16, 7) (16, 16, 3) (3, 17, 7) (18, 18, 5) (5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 8
+Clients in Queue 0
+[(11, 6, 2)]
+Serving (11, 6, 2)
+Total Wait Time: 2
+Clients in Queue 1
+[(14, 7, 5)]
+Serving (14, 7, 5)
+Total Wait Time: 5
+Queue 2 is empty
+Remaining Clients:
+(1, 11, 7) (17, 11, 5) (10, 12, 6) (8, 16, 7) (16, 16, 3) (3, 17, 7) (18, 18, 5) (5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 9
+Clients in Queue 0
+[(11, 6, 1)]
+Serving (11, 6, 1)
+Total Wait Time: 1
+Clients in Queue 1
+[(14, 7, 4)]
+Serving (14, 7, 4)
+Total Wait Time: 4
+Queue 2 is empty
+Remaining Clients:
+(1, 11, 7) (17, 11, 5) (10, 12, 6) (8, 16, 7) (16, 16, 3) (3, 17, 7) (18, 18, 5) (5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 10
+Queue 0 is empty
+Clients in Queue 1
+[(14, 7, 3)]
+Serving (14, 7, 3)
+Total Wait Time: 3
+Queue 2 is empty
+Remaining Clients:
+(1, 11, 7) (17, 11, 5) (10, 12, 6) (8, 16, 7) (16, 16, 3) (3, 17, 7) (18, 18, 5) (5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 11
+Clients in Queue 0
+[(1, 11, 6)]
+Serving (1, 11, 6)
+Total Wait Time: 6
+Clients in Queue 1
+[(14, 7, 2)]
+Serving (14, 7, 2)
+Total Wait Time: 2
+Clients in Queue 2
+[(17, 11, 4)]
+Serving (17, 11, 4)
+Total Wait Time: 4
+Remaining Clients:
+(10, 12, 6) (8, 16, 7) (16, 16, 3) (3, 17, 7) (18, 18, 5) (5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 12
+Clients in Queue 0
+[(1, 11, 5), (10, 12, 6)]
+Serving (1, 11, 5)
+Total Wait Time: 11
+Clients in Queue 1
+[(14, 7, 1)]
+Serving (14, 7, 1)
+Total Wait Time: 1
+Clients in Queue 2
+[(17, 11, 3)]
+Serving (17, 11, 3)
+Total Wait Time: 3
+Remaining Clients:
+(8, 16, 7) (16, 16, 3) (3, 17, 7) (18, 18, 5) (5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 13
+Clients in Queue 0
+[(1, 11, 4), (10, 12, 6)]
+Serving (1, 11, 4)
+Total Wait Time: 10
+Queue 1 is empty
+Clients in Queue 2
+[(17, 11, 2)]
+Serving (17, 11, 2)
+Total Wait Time: 2
+Remaining Clients:
+(8, 16, 7) (16, 16, 3) (3, 17, 7) (18, 18, 5) (5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 14
+Clients in Queue 0
+[(1, 11, 3), (10, 12, 6)]
+Serving (1, 11, 3)
+Total Wait Time: 9
+Queue 1 is empty
+Clients in Queue 2
+[(17, 11, 1)]
+Serving (17, 11, 1)
+Total Wait Time: 1
+Remaining Clients:
+(8, 16, 7) (16, 16, 3) (3, 17, 7) (18, 18, 5) (5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 15
+Clients in Queue 0
+[(1, 11, 2), (10, 12, 6)]
+Serving (1, 11, 2)
+Total Wait Time: 8
+Queue 1 is empty
+Queue 2 is empty
+Remaining Clients:
+(8, 16, 7) (16, 16, 3) (3, 17, 7) (18, 18, 5) (5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 16
+Clients in Queue 0
+[(1, 11, 1), (10, 12, 6)]
+Serving (1, 11, 1)
+Total Wait Time: 7
+Clients in Queue 1
+[(8, 16, 6)]
+Serving (8, 16, 6)
+Total Wait Time: 6
+Clients in Queue 2
+[(16, 16, 2)]
+Serving (16, 16, 2)
+Total Wait Time: 2
+Remaining Clients:
+(3, 17, 7) (18, 18, 5) (5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 17
+Clients in Queue 0
+[(10, 12, 6)]
+Serving (10, 12, 6)
+Total Wait Time: 6
+Clients in Queue 1
+[(8, 16, 5), (3, 17, 7)]
+Serving (8, 16, 5)
+Total Wait Time: 12
+Clients in Queue 2
+[(16, 16, 1)]
+Serving (16, 16, 1)
+Total Wait Time: 1
+Remaining Clients:
+(18, 18, 5) (5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 18
+Clients in Queue 0
+[(10, 12, 5), (18, 18, 5)]
+Serving (10, 12, 5)
+Total Wait Time: 10
+Clients in Queue 1
+[(8, 16, 4), (3, 17, 7)]
+Serving (8, 16, 4)
+Total Wait Time: 11
+Queue 2 is empty
+Remaining Clients:
+(5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 19
+Clients in Queue 0
+[(10, 12, 4), (18, 18, 5)]
+Serving (10, 12, 4)
+Total Wait Time: 9
+Clients in Queue 1
+[(8, 16, 3), (3, 17, 7)]
+Serving (8, 16, 3)
+Total Wait Time: 10
+Queue 2 is empty
+Remaining Clients:
+(5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 20
+Clients in Queue 0
+[(10, 12, 3), (18, 18, 5)]
+Serving (10, 12, 3)
+Total Wait Time: 8
+Clients in Queue 1
+[(8, 16, 2), (3, 17, 7)]
+Serving (8, 16, 2)
+Total Wait Time: 9
+Queue 2 is empty
+Remaining Clients:
+(5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 21
+Clients in Queue 0
+[(10, 12, 2), (18, 18, 5)]
+Serving (10, 12, 2)
+Total Wait Time: 7
+Clients in Queue 1
+[(8, 16, 1), (3, 17, 7)]
+Serving (8, 16, 1)
+Total Wait Time: 8
+Queue 2 is empty
+Remaining Clients:
+(5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 22
+Clients in Queue 0
+[(10, 12, 1), (18, 18, 5)]
+Serving (10, 12, 1)
+Total Wait Time: 6
+Clients in Queue 1
+[(3, 17, 7)]
+Serving (3, 17, 7)
+Total Wait Time: 7
+Queue 2 is empty
+Remaining Clients:
+(5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 23
+Clients in Queue 0
+[(18, 18, 5)]
+Serving (18, 18, 5)
+Total Wait Time: 5
+Clients in Queue 1
+[(3, 17, 6)]
+Serving (3, 17, 6)
+Total Wait Time: 6
+Queue 2 is empty
+Remaining Clients:
+(5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 24
+Clients in Queue 0
+[(18, 18, 4)]
+Serving (18, 18, 4)
+Total Wait Time: 4
+Clients in Queue 1
+[(3, 17, 5)]
+Serving (3, 17, 5)
+Total Wait Time: 5
+Queue 2 is empty
+Remaining Clients:
+(5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 25
+Clients in Queue 0
+[(18, 18, 3)]
+Serving (18, 18, 3)
+Total Wait Time: 3
+Clients in Queue 1
+[(3, 17, 4)]
+Serving (3, 17, 4)
+Total Wait Time: 4
+Queue 2 is empty
+Remaining Clients:
+(5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 26
+Clients in Queue 0
+[(18, 18, 2)]
+Serving (18, 18, 2)
+Total Wait Time: 2
+Clients in Queue 1
+[(3, 17, 3)]
+Serving (3, 17, 3)
+Total Wait Time: 3
+Queue 2 is empty
+Remaining Clients:
+(5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 27
+Clients in Queue 0
+[(18, 18, 1)]
+Serving (18, 18, 1)
+Total Wait Time: 1
+Clients in Queue 1
+[(3, 17, 2)]
+Serving (3, 17, 2)
+Total Wait Time: 2
+Queue 2 is empty
+Remaining Clients:
+(5, 28, 6) (15, 28, 5) (7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 28
+Clients in Queue 0
+[(15, 28, 5)]
+Serving (15, 28, 5)
+Total Wait Time: 5
+Clients in Queue 1
+[(3, 17, 1)]
+Serving (3, 17, 1)
+Total Wait Time: 1
+Clients in Queue 2
+[(5, 28, 5)]
+Serving (5, 28, 5)
+Total Wait Time: 5
+Remaining Clients:
+(7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 29
+Clients in Queue 0
+[(15, 28, 4)]
+Serving (15, 28, 4)
+Total Wait Time: 4
+Queue 1 is empty
+Clients in Queue 2
+[(5, 28, 4)]
+Serving (5, 28, 4)
+Total Wait Time: 4
+Remaining Clients:
+(7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 30
+Clients in Queue 0
+[(15, 28, 3)]
+Serving (15, 28, 3)
+Total Wait Time: 3
+Queue 1 is empty
+Clients in Queue 2
+[(5, 28, 3)]
+Serving (5, 28, 3)
+Total Wait Time: 3
+Remaining Clients:
+(7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 31
+Clients in Queue 0
+[(15, 28, 2)]
+Serving (15, 28, 2)
+Total Wait Time: 2
+Queue 1 is empty
+Clients in Queue 2
+[(5, 28, 2)]
+Serving (5, 28, 2)
+Total Wait Time: 2
+Remaining Clients:
+(7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 32
+Clients in Queue 0
+[(15, 28, 1)]
+Serving (15, 28, 1)
+Total Wait Time: 1
+Queue 1 is empty
+Clients in Queue 2
+[(5, 28, 1)]
+Serving (5, 28, 1)
+Total Wait Time: 1
+Remaining Clients:
+(7, 33, 5) (6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
+Sim Time: 33
+Queue 0 is empty
+Clients in Queue 1
+[(7, 33, 4)]
+Serving (7, 33, 4)
+Total Wait Time: 4
+Queue 2 is empty
+Remaining Clients:
+(6, 36, 7) (20, 36, 7) (4, 39, 4) (9, 45, 3) (12, 46, 7) (2, 48, 5) (13, 48, 5) (19, 48, 6)
+
+
